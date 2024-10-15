@@ -1,5 +1,5 @@
 ## Hi there 👋
-my name is sebastian avila suarez, i'm frontend developer interesting in fintech and blokchain technologies.
+my name is sebastian avila suarez, i'm frontend developer interesting in fintech and blockchain technologies.
 <!--
 **Sebastian123rt/Sebastian123rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
